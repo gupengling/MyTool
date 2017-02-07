@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #
 
   #s.source_files  = "MyTool", "MyTool/**/*.{h,m}"
-  s.source_files = "MyTool/MyTool/*.{h,m}"
+  s.source_files = 'Classes/*.{h,m}'
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "MyTool/**/*.h"
