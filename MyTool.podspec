@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-			个人练习，工具类swift版本
+			MyTool为个人练习，工具类swift版本，仅供练习使用，还请多多指教！
                    DESC
 
   s.homepage     = "https://github.com/gupengling/MyTool"
